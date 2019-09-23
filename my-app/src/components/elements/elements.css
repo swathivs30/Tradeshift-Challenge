@@ -1,0 +1,23 @@
+/* icon styles */
+
+.weather-app__icon  {
+  font-size: 3rem;
+  color: #5c7bb1;
+}
+/* --- end of icon styles --- */
+
+/* button styles */
+.weather-app__button {
+  font-size: 1rem;
+  font-weight: bold;
+  margin-bottom:0.25em;
+  border:1px solid #5CDB95;
+  background: #5CDB95;
+  border-radius:1em;
+  cursor: pointer;
+  color: #ffff;
+  letter-spacing: .08rem;
+  padding: 0.7rem 3rem;
+  transition: all .4s;
+}
+/* --- end of icon styles --- */
